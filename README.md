@@ -7,6 +7,7 @@ Camille:
 Criação do layouts da pagina de login, no Canva;
 Parte final da estilização da pagina de interface;
 Ideia de reorganização dos codigos da pagina interface.jsx, usando o map e const;
+Centralizar Login;
 
 Daniel: 
 Criação do repositório do GitHub
